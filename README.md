@@ -4,7 +4,10 @@
 I´m a bored 14 years old which learned programming in the lockdown
 
 ```markdown
-Enter text here
+if(Input.GetAxis("Horiztal"))
+{
+  Debug.Log("Hi")
+}
 ```
 
 [My Games](https://austro-dev.itch.io/)
